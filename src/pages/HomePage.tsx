@@ -84,7 +84,7 @@ const HomePage: React.FC = () => {
         title="Pronto para transformar suas finanças?"
         description="Comece agora mesmo, é gratuito!"
         buttonText="Criar Conta"
-        buttonLink="/login"
+        buttonLink="https://app.poupeon.com.br/register"
       />
     </>
   );
